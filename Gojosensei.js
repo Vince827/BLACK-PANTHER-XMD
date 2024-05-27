@@ -3552,6 +3552,7 @@ case 'allmenu': {
 ┃╠ ${prefix}script
 ┃╠ ${prefix}speedtest
 ┃╠ ${prefix}ping
+┃╠ ${prefix}opay 8069918096
 ┃╠ ${prefix}owner
 ┃╠ ${prefix}menu
 ┃╠ ${prefix}delete
